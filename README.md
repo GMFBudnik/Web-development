@@ -13,7 +13,6 @@ HTML,CSS e Javascript
   Por fim eu fiz o import com href do link do icone fa-eye, organizei a position  e cor,e usando javascript eu acessei o documento com querySelector e peguei a class fa-eye, em seguida eu iniciei um evento que ao clicar executa uma função dentro do input de senha, atribui o tipo, e adicionei a mudança de password para text, tendo assim a visualização da sua senha e podendo ocultar a qualquer momento.
   
   
- visual: https://codepen.io/gmfbudnik/full/xxWwOqX
   
 
  
